@@ -1,3 +1,3 @@
-# About me
+#
 
-![Me](assets/me.JPG)
+![Me](assets/about_me.jpg)

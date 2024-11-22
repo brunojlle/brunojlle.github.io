@@ -15,7 +15,7 @@ theme:
   #   code: Red Hat Mono
   # icon:
   #   logo: fontawesome/solid/b
-  favicon: assets/cloud-intelligence.png
+  # favicon: assets/cloud-intelligence.png
   features:
    - navigation.footer
   # palette:
