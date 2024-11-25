@@ -6,8 +6,6 @@ nav:
 
 theme:
   name: material
-  palette:
-    primary: black
   features:
    - navigation.top
 
@@ -38,4 +36,4 @@ extra:
       link: https://github.com/brunojlle
 
     - icon: simple/linkedin
-      link: https://www.linkedin.com/in/brunoribeiro7
+      link: https://www.linkedin.com/in/brunojlle
